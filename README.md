@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently exploring the world of automation and testing.
+- 💬 Ask me about C, C++, Java, Data Structure 
+
+
 
 <!--
 **rajat-ksh/rajat-ksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
